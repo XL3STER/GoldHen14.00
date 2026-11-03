@@ -1,0 +1,23 @@
+CACHE MANIFEST
+# Version 1
+
+CACHE:
+./
+index.html
+jb.html
+launch.js
+matrix.js
+style.css
+logo.png
+afterglow.js
+core.js
+mem.js
+int64.js
+jb.js
+ps4_offsets.js
+goldhen.bin
+hen.bin
+patchset.bin
+
+NETWORK:
+*
